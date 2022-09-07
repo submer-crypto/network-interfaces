@@ -1,0 +1,31 @@
+{
+  "name": "@submer-crypto/network-interfaces",
+  "version": "1.0.0",
+  "description": "Commad line tool for extracting network interface values",
+  "bin": {
+    "network-interfaces": "network-interfaces.js"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/submer-crypto/network-interfaces.git"
+  },
+  "keywords": [
+    "network",
+    "interface",
+    "cli",
+    "ip",
+    "mac",
+    "address"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/submer-crypto/network-interfaces/issues"
+  },
+  "homepage": "https://github.com/submer-crypto/network-interfaces#readme",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  }
+}
